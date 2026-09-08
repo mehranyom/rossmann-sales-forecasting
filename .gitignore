@@ -1,0 +1,15 @@
+# Data
+data/raw/*
+data/processed/*
+!data/raw/.keep
+!data/processed/.keep
+
+# Models
+models/*
+!models/.keep
+
+# Python environments and caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
